@@ -1,4 +1,3 @@
-markdown
 # Junior Data Analyst Career Accelerator
 
 A hands-on 10-week mentorship program (Nov 2026 – Jan 2027) in which I work as a data analyst for **UrbanStyle**, an Estonian e-commerce startup, solving real business problems with real data.
